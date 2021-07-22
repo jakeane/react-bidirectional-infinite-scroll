@@ -1,6 +1,6 @@
 {
-  "name": "react-bidirectional-infinite-scroll",
-  "version": "2.0.1",
+  "name": "@jakeane/react-bidirectional-infinite-scroll",
+  "version": "2.0.2",
   "description": "Bidirectional infinite scroll written using react",
   "main": "lib/index.js",
   "files": [
@@ -50,15 +50,15 @@
     "react-dom": "^16.2.0",
     "sinon": "^4.4.1"
   },
-  "author": "Andre Eberhardt - santos.eberhardt@gmail.com",
+  "author": "Jack Keane - john.f.keane.22@dartmouth.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eberhara/react-bidirectional-infinite-scroll/issues"
+    "url": "https://github.com/jakeane/react-bidirectional-infinite-scroll/issues"
   },
-  "homepage": "https://github.com/eberhara/react-bidirectional-infinite-scroll",
+  "homepage": "https://github.com/jakeane/react-bidirectional-infinite-scroll",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eberhara/react-bidirectional-infinite-scroll.git"
+    "url": "https://github.com/jakeane/react-bidirectional-infinite-scroll.git"
   },
   "keywords": [
     "react",
